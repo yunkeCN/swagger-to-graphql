@@ -1,5 +1,5 @@
 {
-  "name": "swagger-to-graphql",
+  "name": "@yued/swagger-to-graphql",
   "version": "1.2.7",
   "author": "Roman Krivtsov",
   "bin": "./bin/swagger2graphql",
